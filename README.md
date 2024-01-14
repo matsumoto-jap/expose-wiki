@@ -1,0 +1,1 @@
+当Repositoryはwikiの使用を目的としている
