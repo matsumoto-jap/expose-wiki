@@ -1,2 +1,2 @@
-# 当Repositoryはwikiの使用を目的としている
-# [wiki](https://github.com/matsumoto-jap/wiki/wiki)
+# 当Repositoryはexposeアプリのwikiとしての利用を目的としている
+# [wiki](https://github.com/matsumoto-jap/expose-wiki/wiki)
